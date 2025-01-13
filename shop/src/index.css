@@ -100,7 +100,7 @@ header .shop-cart .item p {
 
 header .presentation {
   margin: 50px 0;
-  background: linear-gradient(to right, #ff7e5f, #feb47b) no-repeat;
+  background: url('./img/bg.jpeg') no-repeat;
   width: 100%;
   height: 500px;
   background-size: cover;
